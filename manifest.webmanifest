@@ -1,0 +1,19 @@
+{
+  "name": "지원서 이력 맞춤 도우미",
+  "short_name": "이력 도우미",
+  "description": "이력을 보관하고, 공고에 맞는 이력을 골라 기관 양식대로 복사합니다.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#2457c5",
+  "shortcuts": [
+    {"name": "도우미 창 (항목별 복사)", "short_name": "도우미 창", "url": "./#helper", "icons": [{"src": "icon-192.png", "sizes": "192x192"}]}
+  ],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

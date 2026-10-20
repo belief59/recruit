@@ -1,0 +1,12 @@
+# 공개 저장소: 앱 파일만 올리고, 이력서·증빙서류·백업(JSON)·기획 문서 등 개인 자료는 모두 제외
+# (새 파일을 올리려면 아래에 !/파일명 을 추가)
+/*
+!/.gitignore
+!/index.html
+!/manifest.webmanifest
+!/sw.js
+!/server.ps1
+!/실행.bat
+!/icon-192.png
+!/icon-512.png
+!/README.md
